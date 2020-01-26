@@ -1,0 +1,17 @@
+{
+  "name": "convertTsv2Json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.8.5",
+    "rimraf": "^3.0.0",
+    "stream-transform": "^2.0.1"
+  }
+}
